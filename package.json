@@ -1,0 +1,35 @@
+{
+    "name": "cookieconsent-scss-less",
+    "version": "3.0.6",
+    "description": "SCSS and LESS files for Cookieconsent 3",
+    "keywords": [
+        "cookieconsent",
+        "cookie",
+        "scss",
+        "less"
+    ],
+    "author": {
+        "name": "InsanityMeetsHH",
+        "email": "software@insanitymeetshh.net"
+    },
+    "bugs": {
+        "url": "https://github.com/InsanityMeetsHH/cookieconsent-scss-less/issues"
+    },
+    "license": "ISC",
+    "homepage": "https://github.com/InsanityMeetsHH/cookieconsent-scss-less",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/InsanityMeetsHH/cookieconsent-scss-less.git"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "^3.9.4",
+        "gulp-less": "^3.5.0",
+        "gulp-rename": "^1.2.3",
+        "gulp-sass": "^4.0.1",
+        "gulp-sourcemaps": "^2.6.4"
+    },
+    "dependencies": {
+        "cookieconsent": "3.*"
+    }
+}
